@@ -1,0 +1,5 @@
+venv/
+lib/
+__pycache__
+bulk2space.egg-info/
+dist/

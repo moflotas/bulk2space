@@ -13,7 +13,10 @@
    - `source venv/bin/activate`
 5. Install requirements
    - `pip install -r requirements.txt`
-6. **(FOR INFORMATION)** To deactivate the venv, use `deactivate` or `source deactivate` in the terminal
+6. Install Bulk2Space
+   - `python setup.py build`
+   - `python setup.py install`
+7. **(FOR INFORMATION)** To deactivate the venv, use `deactivate` or `source deactivate` in the terminal
 
 If you did everything correctly, you should be able to execute cells in the `jupyter notebooks` `demo1.ipynb` and `demo2.ipynb` and see the results.
 
